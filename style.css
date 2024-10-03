@@ -1,0 +1,58 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.card {
+	font-family: Arial, Helvetica, sans-serif;
+	border-radius: 10px;
+	background-color: black;
+	padding: 12px;
+}
+
+.accompany {
+	background-color: white;
+	display: flex;
+	justify-content: center;
+}
+
+.n1039 {
+	background-color: grey;
+	border: 5px dotted black;
+	padding: 10px;
+}
+
+.titre {
+	background-color: grey;
+	padding: 10px;
+	font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.nf-130 {
+	background-color: grey;
+	border: 5px dotted black;
+	padding: 10px;
+}
+
+img {
+	width: 460.5px;
+	height: 290.52px;
+	top: 261.65px;
+	left: 489.22px;
+	gap: 0px;
+	opacity: 0px;
+	display: flex;
+	align-content: center;
+}
+
+.text {
+	color: white;
+}
+
+button {
+	border: 1px solid black;
+	font-weight: 700;
+	border-radius: 7px;
+	padding: 5px;
+}
